@@ -1,8 +1,8 @@
-# Simontine
+# Simon Ntini
 
 ## Software Engineer • DevOps Engineer • Builder
 
-I’m Simontine — I build with purpose.
+I’m Simon Ntini — I build with purpose.
 
 I work at the intersection of software, hardware, and automation, creating websites and hardware-controlled devices that solve real problems and bring ideas to life. My toolkit includes Angular, Vue, React, Node.js, Arduino, ESP32, and Raspberry Pi.
 
